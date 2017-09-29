@@ -1,0 +1,9 @@
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\bin\Debug\ServerInterface.exe.config
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\bin\Debug\ServerInterface.exe
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\bin\Debug\ServerInterface.pdb
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.csprojResolveAssemblyReference.cache
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.Properties.Resources.resources
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.csproj.GenerateResource.Cache
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.exe
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.pdb
+C:\Users\Caleb Bishop\Desktop\ServerRepo\ServerInterface\ServerInterface\obj\Debug\ServerInterface.LoginForm.resources
